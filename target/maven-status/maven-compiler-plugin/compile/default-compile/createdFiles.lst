@@ -1,0 +1,11 @@
+de\hdm_stuttgart\mi\sd1\weather\jsonreader\SavedCityReader.class
+de\hdm_stuttgart\mi\sd1\weather\jsonreader\ExtendArray.class
+de\hdm_stuttgart\mi\sd1\weather\Application.class
+de\hdm_stuttgart\mi\sd1\weather\processreceiveddata\ReadFromXML.class
+de\hdm_stuttgart\mi\sd1\weather\jsonreader\City.class
+de\hdm_stuttgart\mi\sd1\weather\jsonreader\App.class
+de\hdm_stuttgart\mi\sd1\weather\processreceiveddata\FormatOutput.class
+de\hdm_stuttgart\mi\sd1\weather\jsonreader\Searcher.class
+de\hdm_stuttgart\mi\sd1\weather\processreceiveddata\ProcessXMLtoOutput.class
+de\hdm_stuttgart\mi\sd1\weather\idtoinfo\IDToInfo.class
+de\hdm_stuttgart\mi\sd1\weather\processreceiveddata\WeatherInformation.class
